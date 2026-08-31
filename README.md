@@ -10,5 +10,11 @@ A PCB badge for horizons arcana!
 # Why did i made this?
 I was just trying to try new projects and learn more about hardware projects.
 
+# Features:-
+- could be used as a arcana badge
+- Awesome silkscreen
+- uses 555 timer
+- Cool Leds
+
 # BOM 
 The BOM is basically just the PCBA which will cost somewhere around 30$ with coupon! 
