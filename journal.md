@@ -20,3 +20,10 @@ okay so today i worked on PCB and im done with wiring too! i asked toby for sugg
 <img width="1146" height="949" alt="image" src="https://github.com/user-attachments/assets/5f97bd35-fa44-4545-80f7-8f337449cdb9" />
 
 **Total Time spent: 1hr 10mins**
+
+# July 30th-31st: was at airport
+okay so gng i was not even at home i was at airport and what i did was i just completed the project did the proper wiring and then just did some final touchups and then i exported all the files and then uploaded them on the github and then i took my flight to SINGAPORE yea ik that it's been awhile but yea this is basically what i did in that time! 
+
+<img width="838" height="224" alt="image" src="https://github.com/user-attachments/assets/326453ed-47e3-417d-aa69-196d7c518240" />
+
+**Total Time spent: 40mins**
